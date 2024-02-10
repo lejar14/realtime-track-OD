@@ -12,7 +12,23 @@ This is a real-time object detection application using Streamlit, YOLO (You Only
 
 ## Setup
 
-  
+## GitHub Clone
+
+You can clone this repository using the following command:
+
+```bash
+
+git clone https://github.com/lejar14/realtime-track-OD
+
+```
+
+After cloning, navigate to the project directory:
+
+```bash
+
+cd realtime-track-OD
+
+```
 
 ### Requirements
 
